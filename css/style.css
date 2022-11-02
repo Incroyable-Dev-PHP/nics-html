@@ -34,3 +34,10 @@ githtml, body {
  a:active, a:focus {
   color: red;
  }
+
+ table, caption, th, td {
+
+  border: 2px solid skyblue
+  
+  }
+  
